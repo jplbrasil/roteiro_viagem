@@ -1,0 +1,340 @@
+{
+    "eventos": [
+        {
+            "data": "10/02/2022",
+            "diaSemana": "Sexta",
+            "horario": "21:30",
+            "titulo": "Vôo LA3573 da LATAM de CNF (BH) para GRU (SP)",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "11/02/2022",
+            "diaSemana": "Sábado",
+            "horario": "01:40",
+            "titulo": "Vôo LA761 da LATAM de GRU (SP) para SCL (Santiago)",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "11/02/2022",
+            "diaSemana": "Sábado",
+            "horario": "09:00",
+            "titulo": "Vôo LA142 da LATAM de SCL (Santiago) para CJC (Calama)",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "11/02/2022",
+            "diaSemana": "Sábado",
+            "horario": "11:00",
+            "titulo": "Chegada do vôo de Santiago para Calama",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "11/02/2022",
+            "diaSemana": "Sábado",
+            "horario": "11:30",
+            "titulo": "Traslado para o Hotel Jardin Atacama",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "11/02/2022",
+            "diaSemana": "Sábado",
+            "horario": "12:30",
+            "titulo": "Almoço (livre)",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "11/02/2022",
+            "diaSemana": "Sábado",
+            "horario": "14:00",
+            "titulo": "Check-in no Hotel Jardin Atacama",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "11/02/2022",
+            "diaSemana": "Sábado",
+            "horario": "14:30",
+            "titulo": "Passeio pela cidade (livre)",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "12/02/2022",
+            "diaSemana": "Domingo",
+            "horario": "08:30",
+            "titulo": "Passeio Vale da Lua & Laguna Cejar",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "13/02/2022",
+            "diaSemana": "Segunda",
+            "horario": "09:00",
+            "titulo": "Passeio Lagoas Escondidas & Cordilheira do Sal",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "14/02/2022",
+            "diaSemana": "Terça",
+            "horario": "07:00",
+            "titulo": "Passeio Lagoas Altiplânicas & Pedras Vermelhas",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "15/02/2022",
+            "diaSemana": "Quarta",
+            "horario": "05:00",
+            "titulo": "Passeio Geyser El Tatio",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "15/02/2022",
+            "diaSemana": "Quarta",
+            "horario": "13:00",
+            "titulo": "Passeio Termas de Puritama",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "16/02/2022",
+            "diaSemana": "Quinta",
+            "horario": "07:00",
+            "titulo": "Check-out do Hotel Jardin Atacama",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "16/02/2022",
+            "diaSemana": "Quinta",
+            "horario": "08:00",
+            "titulo": "Salar do Uyuni (dia 1)",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "17/02/2022",
+            "diaSemana": "Sexta",
+            "horario": "08:00",
+            "titulo": "Salar do Uyuni (dia 2)",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "18/02/2022",
+            "diaSemana": "Sábado",
+            "horario": "08:00",
+            "titulo": "Salar do Uyuni (dia 3)",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "18/02/2022",
+            "diaSemana": "Sábado",
+            "horario": "14:00",
+            "titulo": "Check-in no Hotel San Pedro Domus",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "19/02/2022",
+            "diaSemana": "Domingo",
+            "horario": "12:00",
+            "titulo": "Check-out no Hotel San Pedro Domus",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "19/02/2022",
+            "diaSemana": "Domingo",
+            "horario": "19:57",
+            "titulo": "Vôo LA143 da LATAM de CJC (Calama) para SCL(Santiago)",
+            "local": "San Pedro de Atacama"
+        },
+        {
+            "data": "19/02/2022",
+            "diaSemana": "Domingo",
+            "horario": "20:30",
+            "titulo": "Chegada do vôo de Calama para Santiago",
+            "local": "Santiago"
+        },
+        {
+            "data": "19/02/2022",
+            "diaSemana": "Domingo",
+            "horario": "22:00",
+            "titulo": "Check-in no Hotel Solace",
+            "local": "Santiago"
+        },
+        {
+            "data": "20/02/2022",
+            "diaSemana": "Segunda",
+            "horario": "08:00",
+            "titulo": "Passeios em Santiago (dia 1)",
+            "local": "Santiago"
+        },
+        {
+            "data": "21/02/2022",
+            "diaSemana": "Terça",
+            "horario": "08:00",
+            "titulo": "Passeios em Santiago (dia 2)",
+            "local": "Santiago"
+        },
+        {
+            "data": "21/02/2022",
+            "diaSemana": "Terça",
+            "horario": "06:00",
+            "titulo": "Check-out do Hotel Solace",
+            "local": "Santiago"
+        },
+        {
+            "data": "22/02/2022",
+            "diaSemana": "Quarta",
+            "horario": "09:20",
+            "titulo": "Vôo LA8020 da LATAM de SCL (Santiago) para MDZ (Mendoza)",
+            "local": "Santiago"
+        },
+        {
+            "data": "22/02/2022",
+            "diaSemana": "Quarta",
+            "horario": "10:00",
+            "titulo": "Chegada do vôo de Santiago para Mendoza",
+            "local": "Mendoza"
+        },
+        {
+            "data": "22/02/2022",
+            "diaSemana": "Quarta",
+            "horario": "10:30",
+            "titulo": "Traslado para o Villaggio Boutique Hotel",
+            "local": "Mendoza"
+        },
+        {
+            "data": "22/02/2022",
+            "diaSemana": "Quarta",
+            "horario": "11:30",
+            "titulo": "Cambio no Western Union",
+            "local": "Mendoza"
+        },
+        {
+            "data": "22/02/2022",
+            "diaSemana": "Quarta",
+            "horario": "12:30",
+            "titulo": "Almoço na Renacer",
+            "local": "Mendoza"
+        },
+        {
+            "data": "22/02/2022",
+            "diaSemana": "Quarta",
+            "horario": "15:30",
+            "titulo": "Visita na Chandon",
+            "local": "Mendoza"
+        },
+        {
+            "data": "22/02/2022",
+            "diaSemana": "Quarta",
+            "horario": "19:00",
+            "titulo": "Jantar harmonizado na El Enemigo",
+            "local": "Mendoza"
+        },
+        {
+            "data": "22/02/2022",
+            "diaSemana": "Quarta",
+            "horario": "22:00",
+            "titulo": "Check-in no Villaggio Boutique Hotel",
+            "local": "Mendoza"
+        },
+        {
+            "data": "23/02/2022",
+            "diaSemana": "Quinta",
+            "horario": "10:30",
+            "titulo": "Visita na Catena Zapata",
+            "local": "Mendoza"
+        },
+        {
+            "data": "23/02/2022",
+            "diaSemana": "Quinta",
+            "horario": "13:00",
+            "titulo": "Almoço na Susana Balbo",
+            "local": "Mendoza"
+        },
+        {
+            "data": "23/02/2022",
+            "diaSemana": "Quinta",
+            "horario": "15:00",
+            "titulo": "Visita na Susana Balbo",
+            "local": "Mendoza"
+        },
+        {
+            "data": "23/02/2022",
+            "diaSemana": "Quinta",
+            "horario": "17:00",
+            "titulo": "Visita na Anaia",
+            "local": "Mendoza"
+        },
+        {
+            "data": "23/02/2022",
+            "diaSemana": "Quinta",
+            "horario": "20:00",
+            "titulo": "Jantar (livre)",
+            "local": "Mendoza"
+        },
+        {
+            "data": "24/02/2022",
+            "diaSemana": "Sexta",
+            "horario": "08:00",
+            "titulo": "Passeio Alta Montanha",
+            "local": "Mendoza"
+        },
+        {
+            "data": "24/02/2022",
+            "diaSemana": "Sexta",
+            "horario": "20:00",
+            "titulo": "Jantar (livre)",
+            "local": "Mendoza"
+        },
+        {
+            "data": "25/02/2022",
+            "diaSemana": "Sábado",
+            "horario": "11:00",
+            "titulo": "Visita na Zucardi",
+            "local": "Mendoza"
+        },
+        {
+            "data": "25/02/2022",
+            "diaSemana": "Sábado",
+            "horario": "14:00",
+            "titulo": "Almoço na Alfa Crux",
+            "local": "Mendoza"
+        },
+        {
+            "data": "25/02/2022",
+            "diaSemana": "Sábado",
+            "horario": "17:30",
+            "titulo": "Piquenique na Andeluna",
+            "local": "Mendoza"
+        },
+        {
+            "data": "25/02/2022",
+            "diaSemana": "Sábado",
+            "horario": "21:00",
+            "titulo": "Jantar harmonizado na Giménez Riili",
+            "local": "Mendoza"
+        },
+        {
+            "data": "25/02/2022",
+            "diaSemana": "Sábado",
+            "horario": "23:00",
+            "titulo": "Check-in na Casa de Huespedes La Azul",
+            "local": "Mendoza"
+        },
+        {
+            "data": "26/02/2022",
+            "diaSemana": "Domingo",
+            "horario": "12:00",
+            "titulo": "Check-out e traslado para aeroporto",
+            "local": "Mendoza"
+        },
+        {
+            "data": "26/02/2022",
+            "diaSemana": "Domingo",
+            "horario": "15:35",
+            "titulo": "Vôo G37487 da GOL de MDZ (Mendoza) para GRU (SP)",
+            "local": "Mendoza"
+        },
+        {
+            "data": "26/02/2022",
+            "diaSemana": "Domingo",
+            "horario": "21:25",
+            "titulo": "Vôo G31338 da GOL de GRU (SP) para CNF (BH)",
+            "local": "Mendoza"
+        }
+    ]
+}
